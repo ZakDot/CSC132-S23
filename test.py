@@ -1,3 +1,3 @@
 from random import randint
 
-print(randint(0, 100))
+print("Hello! You are number: ", randint(0, 100))
